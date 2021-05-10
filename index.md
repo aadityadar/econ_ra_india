@@ -1,12 +1,13 @@
 ## Econ RA India
 
 ### Academic Job Listings
+* [@econ_ra](https://twitter.com/econ_ra)
 * [Abdul Latif Jameel Poverty Action Lab South Asia](https://www.povertyactionlab.org/careers)
 * [Ahmedabad University](https://ahduni.edu.in/careers/academic-support/)
 * [Ashoka University](https://www.ashoka.edu.in/pages/workwithus-56)
 * [Centre for Sustainable Employment](https://cse.azimpremjiuniversity.edu.in/positions-at-cse/)
 * [Development Data Lab](http://www.devdatalab.org/careers)
-* [@econ_ra](https://twitter.com/econ_ra)
+* [Energy Policy Institute India](https://epic.uchicago.in/about/jobs/)
 * [Indian Institute of Management Ahmedabad](https://www.iima.ac.in/web/iima/working-for-us/research-assistant)
 * [Indian Institute of Management Bangalore](https://www.iimb.ac.in/research-positions)
 * [Indian Institute of Management Udaipur](https://www.iimu.ac.in/media/jobs-at-iimu)
