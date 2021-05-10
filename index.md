@@ -5,24 +5,20 @@
 * [Ahmedabad University](https://ahduni.edu.in/careers/academic-support/)
 * [Ashoka University](https://www.ashoka.edu.in/pages/workwithus-56)
 * [Centre for Sustainable Employment](https://cse.azimpremjiuniversity.edu.in/positions-at-cse/)
+* [Development Data Lab](http://www.devdatalab.org/careers)
 * [@econ_ra](https://twitter.com/econ_ra)
 * [Indian Institute of Management Ahmedabad](https://www.iima.ac.in/web/iima/working-for-us/research-assistant)
 * [Indian Institute of Management Bangalore](https://www.iimb.ac.in/research-positions)
 * [Indian Institute of Management Udaipur](https://www.iimu.ac.in/media/jobs-at-iimu)
+* [Indian Institute of Technology Kanpur](https://www.iitk.ac.in/dofa/department-wise-vacancies-and-area-of-specialization)
 * [Indian School of Business](https://www.isb.edu/en/careers/academic-openings.html)
 * [Indian Statistical Institute Calcutta](https://www.isical.ac.in/jobs)
 * [Krea University](https://krea.edu.in/careers/)
+* [Narsee Monjee Institute of Management Studies](https://fa-elxu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/)
 
 ### Non-Academic Jobs
 * [IDFC Institute](https://www.idfcinstitute.org/careers/)
-
-### Research initiatives 
-* [Center for research on the Economics of Climate, Food , Energy and Environment](https://efdinitiative.org/india)
-* [Centre for Economic Data and Analysis](https://ceda.ashoka.edu.in/)
-* [Economics Departments, Institutes and Research Centers in India](http://crl.du.ac.in/Publication/E-Resources%20in%20Public%20Domain-Final/Economics/Economics%20India/Economics-India.htm)
-* [EPW Research Foundation](http://www.epwrf.res.in/home.aspx)
-* [International Growth Center](https://www.theigc.org/country/india/)
-* [Women in the Economy](https://iwwage.isid.ac.in/)
+* [India Institute](http://indiai.org/vacant-positions/)
 
 ### Resources
 * [Causal Inference: The Mixtape](https://mixtape.scunning.com/)
@@ -63,3 +59,11 @@
 * [Indian Society for Ecological Economics](https://ecoinsee.org/)
 * [Society for Economics Research in India](https://seri-india.org/)
 * [Women in Econ/Policy](https://www.womenineconpolicy.com/)
+
+### Research initiatives 
+* [Center for research on the Economics of Climate, Food , Energy and Environment](https://efdinitiative.org/india)
+* [Centre for Economic Data and Analysis](https://ceda.ashoka.edu.in/)
+* [Economics Departments, Institutes and Research Centers in India](http://crl.du.ac.in/Publication/E-Resources%20in%20Public%20Domain-Final/Economics/Economics%20India/Economics-India.htm)
+* [EPW Research Foundation](http://www.epwrf.res.in/home.aspx)
+* [International Growth Center](https://www.theigc.org/country/india/)
+* [Women in the Economy](https://iwwage.isid.ac.in/)
