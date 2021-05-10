@@ -74,4 +74,4 @@
 * [International Growth Center](https://www.theigc.org/country/india/)
 * [Women in the Economy](https://iwwage.isid.ac.in/)
 
-If you have suggestions to improve this list, please send [me an email](mailto:aadityadar@gmail.com) or create an issue over at the [Github repository](https://github.com/aadityadar/econ_ra_india/issues).
+If you have suggestions to improve this list, please send [me an email](mailto:aadityadar@gmail.com?subject=EconRAIndia) or create an issue over at the [Github repository](https://github.com/aadityadar/econ_ra_india/issues).
