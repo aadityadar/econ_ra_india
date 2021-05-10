@@ -5,9 +5,7 @@
 * [Abdul Latif Jameel Poverty Action Lab South Asia](https://www.povertyactionlab.org/careers)
 * [Ahmedabad University](https://ahduni.edu.in/careers/academic-support/)
 * [Ashoka University](https://www.ashoka.edu.in/pages/workwithus-56)
-* [Centre for Sustainable Employment](https://cse.azimpremjiuniversity.edu.in/positions-at-cse/)
-* [Development Data Lab](http://www.devdatalab.org/careers)
-* [Energy Policy Institute India](https://epic.uchicago.in/about/jobs/)
+* [Centre for Sustainable Employment, Azim Premji University](https://cse.azimpremjiuniversity.edu.in/positions-at-cse/)
 * [Indian Institute of Management Ahmedabad](https://www.iima.ac.in/web/iima/working-for-us/research-assistant)
 * [Indian Institute of Management Bangalore](https://www.iimb.ac.in/research-positions)
 * [Indian Institute of Management Udaipur](https://www.iimu.ac.in/media/jobs-at-iimu)
@@ -16,6 +14,13 @@
 * [Indian Statistical Institute Calcutta](https://www.isical.ac.in/jobs)
 * [Krea University](https://krea.edu.in/careers/)
 * [Narsee Monjee Institute of Management Studies](https://fa-elxu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/)
+
+### Quasi-Academic Jobs
+* [Development Data Lab](http://www.devdatalab.org/careers)
+* [Energy Policy Institute India](https://epic.uchicago.in/about/jobs/)
+* [Evidence for Policy Design](https://epod.cid.harvard.edu/jobs-opportunities)
+* [Good Business Lab](https://www.goodbusinesslab.org/careers)
+* [Precision Agriculture for Development](https://precisionag.org/who-we-are/job-openings/)
 
 ### Non-Academic Jobs
 * [IDFC Institute](https://www.idfcinstitute.org/careers/)
@@ -68,3 +73,5 @@
 * [EPW Research Foundation](http://www.epwrf.res.in/home.aspx)
 * [International Growth Center](https://www.theigc.org/country/india/)
 * [Women in the Economy](https://iwwage.isid.ac.in/)
+
+If you have suggestions to improve this list, please create an issue over at the [Github repository](https://github.com/aadityadar/econ_ra_india/issues)
