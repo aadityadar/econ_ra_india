@@ -39,6 +39,7 @@
 * [Econimate](https://www.youtube.com/channel/UCV7OupzIpYe9oIn_QSlyfJw)
 * [Microeconomic Insights](https://microeconomicinsights.org/)
 * [New Economics Papers](http://nep.repec.org/)
+* [VoxDev](https://voxdev.org/)
 
 ### Conferences, workshops, seminars
 * [Delhi Political Economy Workshop Series](https://sites.google.com/view/delhipoliticaleconomyworkshop/home)
