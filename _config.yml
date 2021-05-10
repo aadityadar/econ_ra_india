@@ -1,4 +1,5 @@
 theme: jekyll-theme-minimal
 title: Econ RA India
+logo: assets/img/econ_ra_india.png
 github:
   is_project_page: False
