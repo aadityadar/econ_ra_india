@@ -21,7 +21,7 @@
 * [Econ RA guide](https://raguide.github.io/)
 * [EconTwitter](https://twitter.com/search?q=econtwitter)
 * [Gentzkow and Shapiro's RA manual](https://github.com/gslab-econ/ra-manual/wiki/Introduction)
-* [JPAL research resources](https://www.povertyactionlab.org/research-resources?view=toc)
+* [JPAL's research resources](https://www.povertyactionlab.org/research-resources?view=toc)
 * [Replication Wiki](http://replication.uni-goettingen.de/)
 * [Stata and other tools](https://github.com/aadityadar/all-aboard/wiki/learning-stata)
 
