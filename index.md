@@ -28,5 +28,6 @@
 ### Communities
 
 * [Bahujan Econ](https://bahujanecon.org/)
+* [Seminar in Applied Microeconomics - Virtual Assembly and Discussion](https://samvaad.info/)
 * [Society for Economics Research in India](https://seri-india.org/)
 * [Women in Econ/Policy](https://www.womenineconpolicy.com/)
