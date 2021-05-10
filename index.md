@@ -22,4 +22,5 @@
 ### Communities
 
 * [Bahujan Econ](https://bahujanecon.org/)
+* [Society for Economics Research in India](https://seri-india.org/)
 * [Women in Econ/Policy](https://www.womenineconpolicy.com/)
