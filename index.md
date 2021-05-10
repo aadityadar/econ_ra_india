@@ -24,6 +24,7 @@
 
 ### Non-Academic Jobs
 * [IDFC Institute](https://www.idfcinstitute.org/careers/)
+* [IDinsight](https://www.idinsight.org/careers)
 * [India Institute](http://indiai.org/vacant-positions/)
 
 ### Resources
