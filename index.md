@@ -17,6 +17,7 @@
 * [AEA Preparing for grad school](https://www.aeaweb.org/resources/students/grad-prep)
 * [Econ RA guide](https://raguide.github.io/)
 * [Gentzkow and Shapiro's RA manual](https://github.com/gslab-econ/ra-manual/wiki/Introduction)
+* [Stata and other tools](https://github.com/aadityadar/all-aboard/wiki/learning-stata)
 
 ### Communities
 
