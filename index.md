@@ -15,8 +15,14 @@
 ### Resources
 
 * [AEA Preparing for grad school](https://www.aeaweb.org/resources/students/grad-prep)
+* [Best of #EconTwitter](https://bestofecontwitter.substack.com/about)
+* [Causal Inference: The Mixtape](https://mixtape.scunning.com/)
+* [DIME Wiki](https://dimewiki.worldbank.org/)
 * [Econ RA guide](https://raguide.github.io/)
+* [EconTwitter](https://twitter.com/search?q=econtwitter)
 * [Gentzkow and Shapiro's RA manual](https://github.com/gslab-econ/ra-manual/wiki/Introduction)
+* [JPAL research resources](https://www.povertyactionlab.org/research-resources?view=toc)
+* [Replication Wiki](http://replication.uni-goettingen.de/)
 * [Stata and other tools](https://github.com/aadityadar/all-aboard/wiki/learning-stata)
 
 ### Communities
