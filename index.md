@@ -1,6 +1,6 @@
 ## Econ RA India
 
-### Listings
+### Job Listings
 * [Abdul Latif Jameel Poverty Action Lab South Asia](https://www.povertyactionlab.org/careers)
 * [Ashoka University](https://www.ashoka.edu.in/pages/workwithus-56)
 * [Centre for Sustainable Employment](https://cse.azimpremjiuniversity.edu.in/positions-at-cse/)
