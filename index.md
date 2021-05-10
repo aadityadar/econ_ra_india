@@ -1,37 +1,12 @@
-## Welcome to GitHub Pages
+## Econ RA job listings
 
-You can use the [editor on GitHub](https://github.com/aadityadar/econ_ra_india/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/aadityadar/econ_ra_india/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+[Abdul Latif Jameel Poverty Action Lab South Asia](https://www.povertyactionlab.org/careers)
+[Ashoka University](https://www.ashoka.edu.in/pages/workwithus-56)
+[Centre for Sustainable Employment](https://cse.azimpremjiuniversity.edu.in/positions-at-cse/)
+[Indian Institute of Management Ahmedabad](https://www.iima.ac.in/web/iima/working-for-us/research-assistant)
+[Indian Institute of Management Bangalore](https://www.iimb.ac.in/research-positions)
+[Indian Institute of Management Udaipur](https://www.iimu.ac.in/media/jobs-at-iimu)
+[Indian School of Business](https://www.isb.edu/en/careers/academic-openings.html)
+[Indian Statistical Institute Calcutta](https://www.isical.ac.in/jobs)
+[Krea University](https://krea.edu.in/careers/)
