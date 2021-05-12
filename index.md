@@ -61,8 +61,11 @@
 * [QuantEcon](https://quantecon.org/)
 * [Remote Student Exchange](https://remotestudentexchange.org/)
 
+### Preparing for grad school
+* [American Economic Association](https://www.aeaweb.org/resources/students/grad-prep)
+* [Ryan Edward's compilation on various aspects of the econ profession](http://www.ryanbedwards.com/resources)
+
 ### Communities
-* [AEA Preparing for grad school](https://www.aeaweb.org/resources/students/grad-prep)
 * [Bahujan Econ](https://bahujanecon.org/)
 * [EconAdvice](https://twitter.com/search?q=econadvice)
 * [EconSpark](https://www.aeaweb.org/forum/)
