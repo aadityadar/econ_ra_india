@@ -1,6 +1,6 @@
 ## Econ RA India
 
-### Academic Job Listings
+### Academic RA Job Listings
 * [@econ_ra](https://twitter.com/econ_ra)
 * [Abdul Latif Jameel Poverty Action Lab South Asia](https://www.povertyactionlab.org/careers)
 * [Ahmedabad University](https://ahduni.edu.in/careers/academic-support/)
@@ -16,6 +16,7 @@
 * [Narsee Monjee Institute of Management Studies](https://fa-elxu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/)
 
 ### Quasi-Academic Jobs
+* [Centre for Advanced Financial Research and Learning](https://www.cafral.org.in/Join-Us.aspx)
 * [Development Data Lab](http://www.devdatalab.org/careers)
 * [Energy Policy Institute India](https://epic.uchicago.in/about/jobs/)
 * [Evidence for Policy Design](https://epod.cid.harvard.edu/jobs-opportunities)
@@ -26,6 +27,9 @@
 * [IDFC Institute](https://www.idfcinstitute.org/careers/)
 * [IDinsight](https://www.idinsight.org/careers)
 * [India Institute](http://indiai.org/vacant-positions/)
+
+### Teaching Assistant Jobs
+* [Indian Institute of Management Nagpur](https://www.iimnagpur.ac.in/academic-associates/)
 
 ### Resources
 * [Causal Inference: The Mixtape](https://mixtape.scunning.com/)
