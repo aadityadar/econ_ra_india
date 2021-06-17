@@ -46,6 +46,7 @@
 * [Econimate](https://www.youtube.com/channel/UCV7OupzIpYe9oIn_QSlyfJw)
 * [Microeconomic Insights](https://microeconomicinsights.org/)
 * [New Economics Papers](http://nep.repec.org/)
+* [SERI Working Papers](https://seri.substack.com)
 * [VoxDev](https://voxdev.org/)
 
 ### Conferences, workshops, seminars
