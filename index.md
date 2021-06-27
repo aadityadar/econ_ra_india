@@ -74,6 +74,7 @@
 ### More tips
 * [American Economic Association: Preparing for grad school](https://www.aeaweb.org/resources/students/grad-prep)
 * [Ryan Edward's compilation on various aspects of the econ profession](http://www.ryanbedwards.com/resources)
+* [Paul Niehaus' advice on "Doing research"](https://medium.com/@paul.niehaus/doing-research-18cb310529e0)
 
 ### Research initiatives 
 * [Center for research on the Economics of Climate, Food , Energy and Environment](https://efdinitiative.org/india)
