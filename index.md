@@ -44,6 +44,7 @@
 ### Keeping up with research
 * [Best of #EconTwitter](https://bestofecontwitter.substack.com/about)
 * [Econimate](https://www.youtube.com/channel/UCV7OupzIpYe9oIn_QSlyfJw)
+* [Ideas For India](https://www.ideasforindia.in/)
 * [Microeconomic Insights](https://microeconomicinsights.org/)
 * [New Economics Papers](http://nep.repec.org/)
 * [SERI Working Papers](https://seri.substack.com)
@@ -51,8 +52,9 @@
 
 ### Conferences, workshops, seminars
 * [Delhi Political Economy Workshop Series](https://sites.google.com/view/delhipoliticaleconomyworkshop/home)
+* [Economics Online Seminars - AEA](https://www.aeaweb.org/resources/online-seminars)
+* [Economics Virtual Seminar Calendar - IDEAS/RePEc](https://ideas.repec.org/v/)
 * [International Conference on Indian Business & Economic History](https://conference.iima.ac.in/history/)
-* [Online seminars](https://www.aeaweb.org/resources/online-seminars)
 * [Seminar in Applied Microeconomics - Virtual Assembly and Discussion](https://samvaad.info/)
 
 ### Open courses
