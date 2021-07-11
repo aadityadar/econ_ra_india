@@ -50,6 +50,13 @@
 * [SERI Working Papers](https://seri.substack.com)
 * [VoxDev](https://voxdev.org/)
 
+### Podcasts
+* [AEA Research Highlights](https://www.aeaweb.org/research/podcasts)
+* [Capitalisn't](https://www.capitalisnt.com/)
+* [Probable Causation](https://www.probablecausation.com/)
+* [Visible Hand](https://www.thevisiblehand.uk/)
+* [VoxTalks](https://voxeu.org/vox-talks)
+
 ### Conferences, workshops, seminars
 * [Delhi Political Economy Workshop Series](https://sites.google.com/view/delhipoliticaleconomyworkshop/home)
 * [Economics Online Seminars - AEA](https://www.aeaweb.org/resources/online-seminars)
