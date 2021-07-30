@@ -40,6 +40,7 @@
 * [JPAL's research resources](https://www.povertyactionlab.org/research-resources?view=toc)
 * [Replication Wiki](http://replication.uni-goettingen.de/)
 * [Stata and other tools](https://github.com/aadityadar/all-aboard/wiki/learning-stata)
+* [Telling stories with data](https://www.tellingstorieswithdata.com/)
 
 ### Keeping up with research
 * [Best of #EconTwitter](https://bestofecontwitter.substack.com/about)
