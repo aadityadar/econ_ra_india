@@ -29,6 +29,7 @@
 * [India Institute](http://indiai.org/vacant-positions/)
 
 ### Teaching Assistant Jobs
+* [Azim Premji University](https://azimpremjiuniversity.edu.in/jobs/academic-associate-economics)
 * [Indian Institute of Management Nagpur](https://www.iimnagpur.ac.in/academic-associates/)
 
 ### Resources
