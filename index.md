@@ -37,9 +37,10 @@
 * [DIME Wiki](https://dimewiki.worldbank.org/)
 * [Econ RA guide](https://raguide.github.io/)
 * [Econometrics Academy](https://sites.google.com/site/econometricsacademy/home)
+* [Find Economic Articles with Data](http://econ.mathematik.uni-ulm.de:3200/ejd/)<!--. An initiative by Sebastian Kranz to make code and data published in top general interest econ journals easily accessible. -->
 * [Gentzkow and Shapiro's RA manual](https://github.com/gslab-econ/ra-manual/wiki/Introduction)
 * [JPAL's research resources](https://www.povertyactionlab.org/research-resources?view=toc)
-* [Replication Wiki](http://replication.uni-goettingen.de/)
+* [Replication Wiki](http://replication.uni-goettingen.de/)<!--. Another important -->
 * [Stata and other tools](https://github.com/aadityadar/all-aboard/wiki/learning-stata)
 * [Telling stories with data](https://www.tellingstorieswithdata.com/)
 
@@ -83,10 +84,10 @@
 * [Women in Econ/Policy](https://www.womenineconpolicy.com/)
 
 ### Applying to grad school
-* [AEA compilation: PhD application advice](https://www.aeaweb.org/resources/students/grad-prep/considerations_)
+* [AEA compilation: PhD application advice](https://www.aeaweb.org/resources/students/grad-prep/considerations)
 * [AEA: Preparing for grad school](https://www.aeaweb.org/resources/students/grad-prep)
-* [An old admissions guide](http://econphd.econwiki.com/guide.htm)
-* [Guide writted by former RAs in India](https://nudgeunit.ir/wp-content/uploads/2021/06/Econ_PhD_Guide.pdf)
+* [EconPhD.net admissions guide](http://econphd.econwiki.com/guide.htm)
+* [Guide written by former RAs in India](https://nudgeunit.ir/wp-content/uploads/2021/06/Econ_PhD_Guide.pdf)
 
 ### More tips
 * [Chris Blattman's advice](https://chrisblattman.com/tag/advice/)
