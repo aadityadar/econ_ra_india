@@ -82,10 +82,16 @@
 * [Society for Economics Research in India](https://seri-india.org/)
 * [Women in Econ/Policy](https://www.womenineconpolicy.com/)
 
+### Applying to grad school
+* [AEA compilation: PhD application advice](https://www.aeaweb.org/resources/students/grad-prep/considerations_)
+* [AEA: Preparing for grad school](https://www.aeaweb.org/resources/students/grad-prep)
+* [An old admissions guide](http://econphd.econwiki.com/guide.htm)
+* [Guide writted by former RAs in India](https://nudgeunit.ir/wp-content/uploads/2021/06/Econ_PhD_Guide.pdf)
+
 ### More tips
-* [American Economic Association: Preparing for grad school](https://www.aeaweb.org/resources/students/grad-prep)
-* [Ryan Edward's compilation on various aspects of the econ profession](http://www.ryanbedwards.com/resources)
+* [Chris Blattman's advice](https://chrisblattman.com/tag/advice/)
 * [Paul Niehaus' advice on "Doing research"](https://medium.com/@paul.niehaus/doing-research-18cb310529e0)
+* [Ryan Edward's compilation on various aspects of the econ profession](http://www.ryanbedwards.com/resources)
 
 ### Research initiatives 
 * [Center for research on the Economics of Climate, Food , Energy and Environment](https://efdinitiative.org/india)
