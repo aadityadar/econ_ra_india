@@ -39,6 +39,7 @@
 * [Econometrics Academy](https://sites.google.com/site/econometricsacademy/home)
 * [Find Economic Articles with Data](http://econ.mathematik.uni-ulm.de:3200/ejd/)<!--. An initiative by Sebastian Kranz to make code and data published in top general interest econ journals easily accessible. -->
 * [Gentzkow and Shapiro's RA manual](https://github.com/gslab-econ/ra-manual/wiki/Introduction)
+* [Jennifer Doleac's compilation of #EconTwitter threads on advice for current and aspiring academic economists](http://jenniferdoleac.com/resources/)
 * [JPAL's research resources](https://www.povertyactionlab.org/research-resources?view=toc)
 * [RA Salaries](https://twitter.com/AadityaDar/status/1489279863999680516?s=20&t=NKMAhXUdcVgL1CtWBtdO6w)
 * [Regression and Other Stories by Andrew Gelman, Jennifer Hill, and Aki Vehtari](https://avehtari.github.io/ROS-Examples/)
