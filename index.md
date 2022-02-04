@@ -72,6 +72,8 @@
 
 ### Open courses
 * [AEA Continuing Education](https://www.aeaweb.org/conference/cont-ed)
+* [African History through the lens of Economics](https://www.wheelerafricacourse.org/)
+* [BREAD-IGC Virtual PhD Course, Spring 2022](https://www.theigc.org/event/bread-igc-virtual-phd-course-spring-2022/)
 * [Macro development](https://www.youtube.com/playlist?list=PLt9jC4Ylzr6BuFVwZNW0hCJureBVMBJ-Z)
 * [MIT OCW Economics](https://ocw.mit.edu/courses/economics/)
 * [QuantEcon](https://quantecon.org/)
