@@ -69,6 +69,7 @@
 * [Economics Virtual Seminar Calendar - IDEAS/RePEc](https://ideas.repec.org/v/)
 * [International Conference on Indian Business & Economic History](https://conference.iima.ac.in/history/)
 * [Seminar in Applied Microeconomics - Virtual Assembly and Discussion](https://samvaad.info/)
+* Society for Economics Research in India (SERI). [Annual workshop for faculty and researchers](https://seriindiadotorg.wordpress.com/annual-workshop/). [SERI-D Workshop for PhD students](https://seriindiadotorg.wordpress.com/seri-d-workshop/)
 
 ### Open courses
 * [AEA Continuing Education](https://www.aeaweb.org/conference/cont-ed)
