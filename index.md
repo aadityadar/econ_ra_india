@@ -41,11 +41,14 @@
 * [Gentzkow and Shapiro's RA manual](https://github.com/gslab-econ/ra-manual/wiki/Introduction)
 * [Jennifer Doleac's compilation of #EconTwitter threads on advice for current and aspiring academic economists](http://jenniferdoleac.com/resources/)
 * [JPAL's research resources](https://www.povertyactionlab.org/research-resources?view=toc)
-* [RA Salaries](https://twitter.com/AadityaDar/status/1489279863999680516?s=20&t=NKMAhXUdcVgL1CtWBtdO6w)
 * [Regression and Other Stories by Andrew Gelman, Jennifer Hill, and Aki Vehtari](https://avehtari.github.io/ROS-Examples/)
 * [Replication Wiki](http://replication.uni-goettingen.de/)<!--. Another important -->
 * [Stata and other tools](https://github.com/aadityadar/all-aboard/wiki/learning-stata)
 * [Telling stories with data](https://www.tellingstorieswithdata.com/)
+
+### HR related
+* [Overview of RA jobs by Prashansa Srivastava & Anahita Karandikar](https://anahita-rkarandikar.medium.com/insights-from-a-survey-of-research-associates-assistants-in-economics-and-development-in-india-a9c964daf1dc)
+* [RA salaries](https://twitter.com/AadityaDar/status/1489279863999680516?s=20&t=NKMAhXUdcVgL1CtWBtdO6w)
 
 ### Keeping up with research
 * [Best of #EconTwitter](https://bestofecontwitter.substack.com/about)
