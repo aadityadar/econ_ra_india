@@ -68,13 +68,14 @@
 * [Economics Online Seminars - AEA](https://www.aeaweb.org/resources/online-seminars)
 * [Economics Virtual Seminar Calendar - IDEAS/RePEc](https://ideas.repec.org/v/)
 * [International Conference on Indian Business & Economic History](https://conference.iima.ac.in/history/)
-* [Seminar in Applied Microeconomics - Virtual Assembly and Discussion](https://samvaad.info/)
+* [Seminar in Applied Microeconomics - Virtual Assembly and Discussion (SAMVAAD)](https://samvaad.info/)
 * Society for Economics Research in India (SERI). [Annual workshop for faculty and researchers](https://seriindiadotorg.wordpress.com/annual-workshop/). [SERI-D Workshop for PhD students](https://seriindiadotorg.wordpress.com/seri-d-workshop/)
 
 ### Open courses
 * [AEA Continuing Education](https://www.aeaweb.org/conference/cont-ed)
 * [African History through the lens of Economics](https://www.wheelerafricacourse.org/)
 * [BREAD-IGC Virtual PhD Course, Spring 2022](https://www.theigc.org/event/bread-igc-virtual-phd-course-spring-2022/)
+* [Curriculum Open-access Resources in Economics (CORE)](https://www.core-econ.org/)
 * [Macro development](https://www.youtube.com/playlist?list=PLt9jC4Ylzr6BuFVwZNW0hCJureBVMBJ-Z)
 * [MIT OCW Economics](https://ocw.mit.edu/courses/economics/)
 * [QuantEcon](https://quantecon.org/)
@@ -86,6 +87,7 @@
 * [EconSpark](https://www.aeaweb.org/forum/)
 * [EconTwitter](https://twitter.com/search?q=econtwitter)
 * [Indian Society for Ecological Economics](https://ecoinsee.org/)
+* [International Economic Association](http://www.iea-world.org/)
 * [Society for Economics Research in India](https://seri-india.org/)
 * [Women in Econ/Policy](https://www.womenineconpolicy.com/)
 
@@ -93,6 +95,7 @@
 * [AEA compilation: PhD application advice](https://www.aeaweb.org/resources/students/grad-prep/considerations)
 * [AEA: Preparing for grad school](https://www.aeaweb.org/resources/students/grad-prep)
 * [EconPhD.net admissions guide](http://econphd.econwiki.com/guide.htm)
+* [Graduate Applications International Network (GAIN)](https://gain-network.net/resources)
 * [Guide written by former RAs in India](https://nudgeunit.ir/wp-content/uploads/2021/06/Econ_PhD_Guide.pdf)
 
 ### More tips
