@@ -1,5 +1,9 @@
 ## Econ RA India
 
+### Overview
+* [Findings from a survey of RAs - Prashansa Srivastava & Anahita Karandikar](https://anahita-rkarandikar.medium.com/insights-from-a-survey-of-research-associates-assistants-in-economics-and-development-in-india-a9c964daf1dc)
+* [RA salaries](https://twitter.com/AadityaDar/status/1489279863999680516?s=20&t=NKMAhXUdcVgL1CtWBtdO6w)
+
 ### Academic RA Job Listings
 * [@econ_ra](https://twitter.com/econ_ra)
 * [Abdul Latif Jameel Poverty Action Lab South Asia](https://www.povertyactionlab.org/careers)
@@ -45,10 +49,6 @@
 * [Replication Wiki](http://replication.uni-goettingen.de/)<!--. Another important -->
 * [Stata and other tools](https://github.com/aadityadar/all-aboard/wiki/learning-stata)
 * [Telling stories with data](https://www.tellingstorieswithdata.com/)
-
-### HR related
-* [Overview of RA jobs by Prashansa Srivastava & Anahita Karandikar](https://anahita-rkarandikar.medium.com/insights-from-a-survey-of-research-associates-assistants-in-economics-and-development-in-india-a9c964daf1dc)
-* [RA salaries](https://twitter.com/AadityaDar/status/1489279863999680516?s=20&t=NKMAhXUdcVgL1CtWBtdO6w)
 
 ### Keeping up with research
 * [Best of #EconTwitter](https://bestofecontwitter.substack.com/about)
