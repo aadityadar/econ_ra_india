@@ -37,6 +37,7 @@
 * [Indian Institute of Management Nagpur](https://www.iimnagpur.ac.in/academic-associates/)
 
 ### Resources
+* [Advice for Phd Students in Economics - Compilation by Chris Roth and David Schindler](https://sites.google.com/view/econgradadvice/)
 * [Causal Inference: The Mixtape](https://mixtape.scunning.com/)
 * [DIME Wiki](https://dimewiki.worldbank.org/)
 * [Econ RA guide](https://raguide.github.io/)
