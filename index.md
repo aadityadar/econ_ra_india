@@ -50,10 +50,13 @@
 * [JPAL's research resources](https://www.povertyactionlab.org/research-resources?view=toc)
 * [Regression and Other Stories by Andrew Gelman, Jennifer Hill, and Aki Vehtari](https://avehtari.github.io/ROS-Examples/)
 * [Replication Wiki](http://replication.uni-goettingen.de/)<!--. Another important -->
-* [Stata and other tools](https://github.com/aadityadar/all-aboard/wiki/learning-stata)
 * [Telling stories with data](https://www.tellingstorieswithdata.com/)
 
-### HR related
+### Resources - Stata
+* [Compilation of selected resources](https://github.com/aadityadar/all-aboard/wiki/learning-stata)
+* [Data Analysis and Statistics with Stata – UBC](https://blogs.ubc.ca/datawithstata/)
+
+### Resources - HR related
 * [Findings from a survey of RAs - Prashansa Srivastava & Anahita Karandikar](https://anahita-rkarandikar.medium.com/insights-from-a-survey-of-research-associates-assistants-in-economics-and-development-in-india-a9c964daf1dc)
 * [RA salaries](https://twitter.com/AadityaDar/status/1489279863999680516?s=20&t=NKMAhXUdcVgL1CtWBtdO6w)
 
