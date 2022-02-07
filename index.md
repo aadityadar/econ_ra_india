@@ -1,7 +1,9 @@
 ## Econ RA India
 
 ### Overview
+* [Econ RA guide](https://raguide.github.io/)
 * [Findings from a survey of RAs - Prashansa Srivastava & Anahita Karandikar](https://anahita-rkarandikar.medium.com/insights-from-a-survey-of-research-associates-assistants-in-economics-and-development-in-india-a9c964daf1dc)
+* [Guide written by former RAs in India](https://nudgeunit.ir/wp-content/uploads/2021/06/Econ_PhD_Guide.pdf)
 * [RA salaries](https://twitter.com/AadityaDar/status/1489279863999680516?s=20&t=NKMAhXUdcVgL1CtWBtdO6w)
 
 ### Academic RA Job Listings
@@ -51,6 +53,10 @@
 * [Stata and other tools](https://github.com/aadityadar/all-aboard/wiki/learning-stata)
 * [Telling stories with data](https://www.tellingstorieswithdata.com/)
 
+### HR related
+* [Findings from a survey of RAs - Prashansa Srivastava & Anahita Karandikar](https://anahita-rkarandikar.medium.com/insights-from-a-survey-of-research-associates-assistants-in-economics-and-development-in-india-a9c964daf1dc)
+* [RA salaries](https://twitter.com/AadityaDar/status/1489279863999680516?s=20&t=NKMAhXUdcVgL1CtWBtdO6w)
+
 ### Keeping up with research
 * [Best of #EconTwitter](https://bestofecontwitter.substack.com/about)
 * [Econimate](https://www.youtube.com/channel/UCV7OupzIpYe9oIn_QSlyfJw)
@@ -59,6 +65,12 @@
 * [New Economics Papers](http://nep.repec.org/)
 * [SERI Working Papers](https://seri.substack.com)
 * [VoxDev](https://voxdev.org/)
+
+### Independent research (from [Rice University](https://economics.rice.edu/undergraduate-program/doing-research-in-economics))
+* [How to Get Started on Research in Economics](https://economics.rice.edu/sites/g/files/bxs4046/files/inline-files/Pische%20%28LSE%29%202012%20Starting%20Research%20Projects.pdf) by Steve Pischke
+* [How to Write a Research Paper in Economics](https://economics.rice.edu/sites/g/files/bxs4046/files/inline-files/Powers%202012%20Writing%20Economics%20Research%20Papers.pdf) by Dawn Powers 
+* [Research Tips](https://economics.rice.edu/sites/g/files/bxs4046/files/inline-files/Jacobsen%202014%20Research%20and%20Writing%20Tips.pdf) and [writing Tips](https://economics.rice.edu/sites/g/files/bxs4046/files/inline-files/Jacobsen%202015%20Writing%20for%20Economists.pdf) by Ben Jacobsen
+* [Writing Tips](https://economics.rice.edu/sites/g/files/bxs4046/files/inline-files/Cochrane%202005%20Writing%20Tips.pdf) by John Cochrane
 
 ### Podcasts
 * [AEA Research Highlights](https://www.aeaweb.org/research/podcasts)
@@ -94,6 +106,7 @@
 * [International Economic Association](http://www.iea-world.org/)
 * [Society for Economics Research in India](https://seri-india.org/)
 * [Women in Econ/Policy](https://www.womenineconpolicy.com/)
+* [Diversifying and Decolonising Economics (D-Econ)](https://d-econ.org/)
 
 ### Applying to grad school
 * [AEA compilation: PhD application advice](https://www.aeaweb.org/resources/students/grad-prep/considerations)
