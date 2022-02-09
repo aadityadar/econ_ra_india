@@ -1,10 +1,11 @@
 ## Econ RA India
 
 ### Overview
-* [Econ RA guide](https://raguide.github.io/)
-* [Findings from a survey of RAs - Prashansa Srivastava & Anahita Karandikar](https://anahita-rkarandikar.medium.com/insights-from-a-survey-of-research-associates-assistants-in-economics-and-development-in-india-a9c964daf1dc)
-* [Guide written by former RAs in India](https://nudgeunit.ir/wp-content/uploads/2021/06/Econ_PhD_Guide.pdf)
-* [RA salaries](https://twitter.com/AadityaDar/status/1489279863999680516?s=20&t=NKMAhXUdcVgL1CtWBtdO6w)
+* [Econ RA guide - India focused](https://nudgeunit.ir/wp-content/uploads/2021/06/Econ_PhD_Guide.pdf). Guide written by former RAs in India.
+* [Econ RA guide - US focused](https://raguide.github.io/). Guide written by close to 40 RAs in econ. US focused but still relevant. The section on "Making the most of your RAship" is excellent.
+* [RA salaries](https://twitter.com/AadityaDar/status/1489279863999680516?s=20&t=NKMAhXUdcVgL1CtWBtdO6w). Salaries of RAs at various institutions in India.
+* [RA survey - Prashansa Srivastava & Anahita Karandikar](https://anahita-rkarandikar.medium.com/insights-from-a-survey-of-research-associates-assistants-in-economics-and-development-in-india-a9c964daf1dc). Findings of a survey of RAs in India describing the application process and the work RAs do.
+* [What Economists Really Do - Oriana Bandiera](https://www.youtube.com/watch?v=iiYKRD8ochA). Masterful lecture about some misperceptions about economics and the kind of questions economists are working on these days.
 
 ### Academic RA Job Listings
 * [@econ_ra](https://twitter.com/econ_ra)
@@ -44,6 +45,7 @@
 * [DIME Wiki](https://dimewiki.worldbank.org/)
 * [Econ RA guide](https://raguide.github.io/)
 * [Econometrics Academy](https://sites.google.com/site/econometricsacademy/home)
+* [Elementary principles of composition - Elements of style](https://www.bartleby.com/141/strunk5.html)
 * [Find Economic Articles with Data](http://econ.mathematik.uni-ulm.de:3200/ejd/)<!--. An initiative by Sebastian Kranz to make code and data published in top general interest econ journals easily accessible. -->
 * [Gentzkow and Shapiro's RA manual](https://github.com/gslab-econ/ra-manual/wiki/Introduction)
 * [Jennifer Doleac's compilation of #EconTwitter threads on advice for current and aspiring academic economists](http://jenniferdoleac.com/resources/)
@@ -53,7 +55,7 @@
 * [Telling stories with data](https://www.tellingstorieswithdata.com/)
 
 ### Resources - Stata
-* [Compilation of selected resources](https://github.com/aadityadar/all-aboard/wiki/learning-stata)
+* [Compilation of select Stata resources](https://github.com/aadityadar/all-aboard/wiki/learning-stata)
 * [Data Analysis and Statistics with Stata – UBC](https://blogs.ubc.ca/datawithstata/)
 
 ### Resources - HR related
@@ -117,6 +119,7 @@
 * [EconPhD.net admissions guide](http://econphd.econwiki.com/guide.htm)
 * [Graduate Applications International Network (GAIN)](https://gain-network.net/resources)
 * [Guide written by former RAs in India](https://nudgeunit.ir/wp-content/uploads/2021/06/Econ_PhD_Guide.pdf)
+* [Writing a diversity statement - Teevrat Garg](https://twitter.com/teevrat/status/1197375163467124736?s=20&t=DRruYYYEhXHVnxbpZvROYA). Written keeping in mind applications for Assistant Professors but the key ideas are transferable to PhD applications as well. 
 
 ### More tips
 * [Chris Blattman's advice](https://chrisblattman.com/tag/advice/)
