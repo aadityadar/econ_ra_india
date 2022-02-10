@@ -1,7 +1,7 @@
 ## Econ RA India
 
 ### Overview
-* [Econ RA guide - India focused](https://nudgeunit.ir/wp-content/uploads/2021/06/Econ_PhD_Guide.pdf). Guide written by former RAs in India.
+* [Econ RA guide - India focused](https://aadityadar.github.io/econ_ra_india/assets/Econ_PhD_Guide.pdf). Guide written by former RAs in India.
 * [Econ RA guide - US focused](https://raguide.github.io/). Guide written by close to 40 RAs in econ. US focused but still relevant. The section on "Making the most of your RAship" is excellent.
 * [RA salaries](https://twitter.com/AadityaDar/status/1489279863999680516?s=20&t=NKMAhXUdcVgL1CtWBtdO6w). Salaries of RAs at various institutions in India.
 * [RA survey - Prashansa Srivastava & Anahita Karandikar](https://anahita-rkarandikar.medium.com/insights-from-a-survey-of-research-associates-assistants-in-economics-and-development-in-india-a9c964daf1dc). Findings of a survey of RAs in India describing the application process and the work RAs do.
@@ -118,7 +118,7 @@
 * [AEA: Preparing for grad school](https://www.aeaweb.org/resources/students/grad-prep)
 * [EconPhD.net admissions guide](http://econphd.econwiki.com/guide.htm)
 * [Graduate Applications International Network (GAIN)](https://gain-network.net/resources)
-* [Guide written by former RAs in India](https://nudgeunit.ir/wp-content/uploads/2021/06/Econ_PhD_Guide.pdf)
+* [Guide written by former RAs in India](https://aadityadar.github.io/econ_ra_india/assets/Econ_PhD_Guide.pdf)
 * [Writing a diversity statement - Teevrat Garg](https://twitter.com/teevrat/status/1197375163467124736?s=20&t=DRruYYYEhXHVnxbpZvROYA). Written keeping in mind applications for Assistant Professors but the key ideas are transferable to PhD applications as well. 
 
 ### More tips
