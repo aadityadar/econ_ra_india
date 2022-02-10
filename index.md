@@ -5,7 +5,7 @@
 * [Econ RA guide - US focused](https://raguide.github.io/). Guide written by close to 40 RAs in econ. US focused but still relevant. The section on "Making the most of your RAship" is excellent.
 * [RA salaries](https://twitter.com/AadityaDar/status/1489279863999680516?s=20&t=NKMAhXUdcVgL1CtWBtdO6w). Salaries of RAs at various institutions in India.
 * [RA survey - Prashansa Srivastava & Anahita Karandikar](https://anahita-rkarandikar.medium.com/insights-from-a-survey-of-research-associates-assistants-in-economics-and-development-in-india-a9c964daf1dc). Findings of a survey of RAs in India describing the application process and the work RAs do.
-* [What Economists Really Do - Oriana Bandiera](https://www.youtube.com/watch?v=iiYKRD8ochA). Masterful lecture about some misperceptions about economics and the kind of questions economists are working on these days.
+* [What Economists Really Do - Oriana Bandiera](https://www.youtube.com/watch?v=iiYKRD8ochA). Masterful lecture about some misperceptions about economics and the kind of questions economists are working on these days. [Brief 6 min video](https://youtu.be/32RTw4S0s54).
 
 ### Academic RA Job Listings
 * [@econ_ra](https://twitter.com/econ_ra)
