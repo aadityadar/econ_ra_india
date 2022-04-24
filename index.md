@@ -66,6 +66,7 @@
 ### Keeping up with research
 * [Best of #EconTwitter](https://bestofecontwitter.substack.com/about)
 * [Econimate](https://www.youtube.com/channel/UCV7OupzIpYe9oIn_QSlyfJw)
+* [Elicit - The AI Research Assistant](https://elicit.org/)
 * [Ideas For India](https://www.ideasforindia.in/)
 * [Microeconomic Insights](https://microeconomicinsights.org/)
 * [New Economics Papers](http://nep.repec.org/)
