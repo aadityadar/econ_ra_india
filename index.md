@@ -82,6 +82,8 @@
 * [AEA Research Highlights](https://www.aeaweb.org/research/podcasts)
 * [Capitalisn't](https://www.capitalisnt.com/)
 * [Probable Causation](https://www.probablecausation.com/)
+* [The Hidden Curriculum](https://anchor.fm/hidden-curriculum)
+* [The New Bazaar](https://shows.acast.com/the-new-bazaar)
 * [Visible Hand](https://www.thevisiblehand.uk/)
 * [VoxTalks](https://voxeu.org/vox-talks)
 
