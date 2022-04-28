@@ -81,11 +81,12 @@
 
 ### Podcasts
 * [AEA Research Highlights](https://www.aeaweb.org/research/podcasts)
-* [Capitalisn't](https://www.capitalisnt.com/)
-* [Probable Causation](https://www.probablecausation.com/)
-* [The Hidden Curriculum](https://anchor.fm/hidden-curriculum)
-* [The New Bazaar](https://shows.acast.com/the-new-bazaar)
-* [Visible Hand](https://www.thevisiblehand.uk/)
+* [Capitalisn't by Luigi Zingales and Bethany McLean](https://www.capitalisnt.com/)
+* [Mixtape: The Podcast by Scott Cunningham](https://open.spotify.com/show/2wDlnDFyWoHtflRVrnsO7i)
+* [Probable Causation by Jennifer Doleac](https://www.probablecausation.com/)
+* [The Hidden Curriculum by Sebastian Tello-Trillo and Alex Hollingsworth](https://anchor.fm/hidden-curriculum)
+* [The New Bazaar by Cardiff Garcia](https://shows.acast.com/the-new-bazaar)
+* [Visible Hand by Jordi Blanes i Vidal](https://www.thevisiblehand.uk/)
 * [VoxTalks](https://voxeu.org/vox-talks)
 
 ### Conferences, workshops, seminars
