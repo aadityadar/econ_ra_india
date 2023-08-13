@@ -47,8 +47,8 @@
 
 ### Resources 
 * Metrics
-	* [Causal Inference: The Mixtape](https://mixtape.scunning.com/)  
-	* [Econometrics Academy](https://sites.google.com/site/econometricsacademy/home)  
+	* [Causal Inference: The Mixtape](https://mixtape.scunning.com/)
+	* [Econometrics Academy](https://sites.google.com/site/econometricsacademy/home)
 	* [Regression and Other Stories by Andrew Gelman, Jennifer Hill, and Aki Vehtari](https://avehtari.github.io/ROS-Examples/)
 * General
 	* [Econ RA guide](https://raguide.github.io/)
@@ -126,17 +126,17 @@
 | Health/2015 | [Health Economics](https://www.aeaweb.org/webcasts/2015/conted)/ Jonathan Gruber, Adriana Lleras-Muney, Jonathan Skinner |  <!--- 25 --->
 | Health/2016 | [Microeconomics of Life Course Inequality](https://www.aeaweb.org/webcasts/2016/continuing-education.php)/Steven Durlauf, James J. Heckman |  <!--- 23 --->
 | IO/2017 | [Industrial Organization](https://www.aeaweb.org/conference/cont-ed/2017-webcasts)/Daniel Ackerberg, Aviv Nevo, Ariel Pakes | <!--- 20 --->
-| IO/2021 | [Industrial Organization](https://www.aeaweb.org/conference/cont-ed/2021-webcasts)/ Steven Berry, Philip Haile |  <!--- 6 --->
-| Labor/2013 | [Labor Economics](https://www.aeaweb.org/webcasts/2013/conted)/ Jesse Rothstein, Lowell Taylor |  <!--- 30 --->
+| IO/2021 | [Industrial Organization](https://www.aeaweb.org/conference/cont-ed/2021-webcasts)/Steven Berry, Philip Haile |  <!--- 6 --->
+| Labor/2013 | [Labor Economics](https://www.aeaweb.org/webcasts/2013/conted)/Jesse Rothstein, Lowell Taylor |  <!--- 30 --->
 | Labor/2014 | [Education and the Economy](https://www.aeaweb.org/webcasts/2014/conted)/Susan Dynarski, Brian Jacob |  <!--- 28 --->
-| Labor/2021 | [Labor and Applied Econometrics](https://www.aeaweb.org/conference/cont-ed/2021-webcasts)/ Patrick Kline, Christopher Walters |  <!--- 7 --->
+| Labor/2021 | [Labor and Applied Econometrics](https://www.aeaweb.org/conference/cont-ed/2021-webcasts)/Patrick Kline, Christopher Walters |  <!--- 7 --->
 | Macro/2018 | [DSGE Models and the Role of Finance](https://www.aeaweb.org/conference/cont-ed/2018-webcasts)/Lawrence Christiano, Thomas Philippon |  <!--- 17 --->
 | Macro/2019 | [Inequality and Innovation](https://www.aeaweb.org/conference/cont-ed/2019-webcasts)/Ufuk Akcigit, Stefanie Stantcheva | <!--- 13 --->
 | Macro/2022 | [DSGE Modeling in Macroeconomics](https://www.aeaweb.org/conference/cont-ed/2022-webcasts)/Larry Christiano, Martin Eichenbaum  |  <!--- 3 --->
 | Macro/2023 | [Techniques of Empirical Macroeconomics](https://www.aeaweb.org/conference/cont-ed/2023-webcasts)/Òscar Jordà, Karel Mertens | <!--- 2 --->
-| Methods/2013| [Time Series Econometrics](https://www.aeaweb.org/webcasts/2013/conted)/ Giorgio Primiceri, Frank Schorfheide |  <!--- 32 --->
+| Methods/2013| [Time Series Econometrics](https://www.aeaweb.org/webcasts/2013/conted)/Giorgio Primiceri, Frank Schorfheide |  <!--- 32 --->
 | Methods/2014 | [Cross-Section Econometrics](https://www.aeaweb.org/webcasts/2014/conted)/Alberto Abadie, Joshua Angrist |  <!--- 27 --->
-| Methods/2015 | [Time Series Econometrics](https://www.aeaweb.org/webcasts/2015/conted)/ James H. Stock, Mark W. Watson |  <!--- 26 --->
+| Methods/2015 | [Time Series Econometrics](https://www.aeaweb.org/webcasts/2015/conted)/James H. Stock, Mark W. Watson |  <!--- 26 --->
 | Methods/2016 | [Field Experiments](https://www.aeaweb.org/webcasts/2016/continuing-education.php)/Dean Karlan, John A. List |  <!--- 22 --->
 | Methods/2017 | [Cross-Section Econometrics](https://www.aeaweb.org/conference/cont-ed/2017-webcasts)/Alberto Abadie, Joshua Angrist, Christopher Walters | <!--- 18 --->
 | Methods/2018 | [Machine Learning and Econometrics](https://www.aeaweb.org/conference/cont-ed/2018-webcasts)/Susan Athey, Guido Imbens |  <!--- 16 --->
@@ -145,10 +145,10 @@
 | Methods/2022 | [Modern Sampling Methods: Design and Inference](https://www.aeaweb.org/conference/cont-ed/2022-webcasts)/Keisuke Hirano, Jack Porter  |  <!--- 4 --->
 | Methods/2023 | [Machine Learning and Big Data](https://www.aeaweb.org/conference/cont-ed/2023-webcasts)/Melissa Dell, Matthew Harding  |   <!--- 1 --->
 | Micro/2018 | [Matching Market Design](https://www.aeaweb.org/conference/cont-ed/2018-webcasts)/Atila Abdulkadiroglu, Nikhil Agarwal, Parag Pathak |  <!--- 15 --->
-| Micro/2021 | [Markets for Innovation: Market Failures and Public Policies](https://www.aeaweb.org/conference/cont-ed/2021-webcasts)/ Kevin Bryan, Heidi Williams |  <!--- 8 --->
-| Monetary/2015 | [Monetary Policy](https://www.aeaweb.org/webcasts/2015/conted)/ Gauti B. Eggerson, Jeff Fuhrer, Ellen McGrattan, Ricardo Reis |  <!--- 24 --->
+| Micro/2021 | [Markets for Innovation: Market Failures and Public Policies](https://www.aeaweb.org/conference/cont-ed/2021-webcasts)/Kevin Bryan, Heidi Williams |  <!--- 8 --->
+| Monetary/2015 | [Monetary Policy](https://www.aeaweb.org/webcasts/2015/conted)/Gauti B. Eggerson, Jeff Fuhrer, Ellen McGrattan, Ricardo Reis |  <!--- 24 --->
 | Monetary/2020 | [Monetary Policy](https://www.aeaweb.org/conference/cont-ed/2020-webcasts)/Gauti B. Eggertsson, Jon Steinsson | <!--- 10 --->
-| Public/2013 | [Public Finance](https://www.aeaweb.org/webcasts/2013/conted)/ Alan Auerbach, James Poterba |  <!--- 31 --->
+| Public/2013 | [Public Finance](https://www.aeaweb.org/webcasts/2013/conted)/Alan Auerbach, James Poterba |  <!--- 31 --->
 | Trade/2019| [International Trade](https://www.aeaweb.org/conference/cont-ed/2019-webcasts)/Dave Donaldson, Marc Melitz | <!--- 14 --->
 
 ### Communities
