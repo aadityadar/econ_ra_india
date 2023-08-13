@@ -42,8 +42,11 @@
 
 ### Advice
 * [Advice for Phd Students in Economics - Compilation by Chris Roth and David Schindler](https://sites.google.com/view/econgradadvice/)
+* [Chris Blattman's advice](https://chrisblattman.com/tag/advice/)
 * [Jennifer Doleac's compilation of #EconTwitter threads on advice for current and aspiring academic economists](http://jenniferdoleac.com/resources/)
 * [On Being a (Successful) Graduate Student](https://github.com/ArthurSpirling/BeingAGradStudent)
+* [Paul Niehaus' advice on "Doing research"](https://medium.com/@paul.niehaus/doing-research-18cb310529e0)
+* [Ryan Edward's compilation on various aspects of the econ profession](http://www.ryanbedwards.com/resources)
 
 ### Resources 
 * Metrics
@@ -81,7 +84,6 @@
 * [Writing Tips](https://economics.rice.edu/sites/g/files/bxs4046/files/inline-files/Cochrane%202005%20Writing%20Tips.pdf) by John Cochrane
 
 ### More resources for writing/research
-
 * [Elementary principles of composition - Elements of style](https://www.bartleby.com/141/strunk5.html)
 * [Find Economic Articles with Data](http://econ.mathematik.uni-ulm.de:3200/ejd/)<!--. An initiative by Sebastian Kranz to make code and data published in top general interest econ journals easily accessible. -->
 * [Replication Wiki](http://replication.uni-goettingen.de/)<!--. Another important -->
@@ -114,7 +116,7 @@
 * [QuantEcon](https://quantecon.org/)
 * [Remote Student Exchange](https://remotestudentexchange.org/)
 
-#### AEA's Webcast List
+#### AEA's Webcast List (2013-2023)
 
 | Field/year 	| Course/Faculty 	|
 | ---- 			| ---- 		 		|  
@@ -169,11 +171,6 @@
 * [Graduate Applications International Network (GAIN)](https://gain-network.net/resources)
 * [Guide written by former RAs in India](https://aadityadar.github.io/econ_ra_india/assets/Econ_PhD_Guide.pdf)
 * [Writing a diversity statement - Teevrat Garg](https://twitter.com/teevrat/status/1197375163467124736?s=20&t=DRruYYYEhXHVnxbpZvROYA). Written keeping in mind applications for Assistant Professors but the key ideas are transferable to PhD applications as well. 
-
-### More tips
-* [Chris Blattman's advice](https://chrisblattman.com/tag/advice/)
-* [Paul Niehaus' advice on "Doing research"](https://medium.com/@paul.niehaus/doing-research-18cb310529e0)
-* [Ryan Edward's compilation on various aspects of the econ profession](http://www.ryanbedwards.com/resources)
 
 ### Research initiatives 
 * [Center for research on the Economics of Climate, Food , Energy and Environment](https://efdinitiative.org/india)
